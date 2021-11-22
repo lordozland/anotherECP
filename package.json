@@ -1,7 +1,7 @@
 {
   "name": "anotherecp",
   "version": "1.0.0",
-  "description": "",
+  "homepage": "https://lordozland.github.io/anotherECP/",
   "main": "index.js",
   "scripts": {
     "start": "cd ./ecp5 && npm start",
